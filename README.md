@@ -57,7 +57,7 @@ Copy
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Use this Repository
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/arvindyadavtechii/Multifield-Practice-Projects.git
